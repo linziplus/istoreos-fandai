@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "http://linzi.in:80/:splat"
+  to = "http://linzi.in:8880/:splat"
   status = 200
   force = true
