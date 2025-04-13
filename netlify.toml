@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "http://linzi.in:80/:splat"
+  status = 200
+  force = true
